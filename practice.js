@@ -1,0 +1,1 @@
+export const data = [2,3,4];
